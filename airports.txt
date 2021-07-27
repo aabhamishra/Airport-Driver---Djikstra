@@ -1,0 +1,10 @@
+ORD, Chicago, USA, Chicago's motto is the "city in a garden" because of its impressive park system
+LHR, London, UK, London is home to Buckingham Palace which is where Queen Elizabeth II spends most of her time   
+CDG, Paris, France, The most popular tourist destination in the world    
+MKE, Milwaukee, USA, The ice rink in downtown Milwaukee is bigger than the Time Square
+MSN, Madison, USA, Called the City of Four Lakes and one of only two cities in the US built on an isthmus 
+SEA, Seattle, USA, Has the largest man made island (Seattle Harbor)
+EWR, Newark, USA, Branch Park is known for having more than 4,000 cherry trees that blossom during April
+ATL, Atlanta, USA, The Georgia Aquarium in Atlanta is the largest aquarium in the western hemisphere.
+PEK, Beijing, China, Beijing home to the Forbidden City the world's largest emperial palace
+DXB, Dubai, UAE, Home for the tallest tower in the world    
